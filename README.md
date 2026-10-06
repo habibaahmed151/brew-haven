@@ -2,7 +2,7 @@
 
 A modern, responsive coffee shop website showcasing UI/UX design and front-end development using HTML, CSS, and JavaScript.
 
-**🔗 Live Demo:** [zasha-site.github.io/brew-haven](https://zasha-site.github.io/brew-haven/)
+**🔗 Live Demo:** [zasha-site.github.io/brew-haven]( https://habibaahmed151.github.io/brew-haven/)
 
 ## About
 
